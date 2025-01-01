@@ -1,0 +1,8 @@
+pandas
+mumpy
+scikit-learn
+matplotlib
+seaborn
+apache-airflow
+joblib
+Flask
